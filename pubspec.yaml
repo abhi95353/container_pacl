@@ -1,0 +1,17 @@
+name: container_pack
+description: Just a demo package for the beginners on how to publish a flutter package on community.
+license: MIT
+version: 1.0.0+1
+environment:
+  sdk: ">=3.0.6 <4.0.0"
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+# flutter:
+#   main: lib/container_pack.dart
+#   uses-material-design: true
